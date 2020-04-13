@@ -4,7 +4,7 @@
 
 <?php
 echo "My first page PHP script!";
-$x = 5985;
+$x = 15985;
 var_dump(is_numeric($x));
 $x = "5985";
 var_dump(is_numeric($x));
